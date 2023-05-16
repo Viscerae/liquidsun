@@ -1,0 +1,10 @@
+#experience {
+    border: 2px solid blue;
+    background-color: rgb(191, 240, 223);
+    width: 600px;
+}
+#cvpic {
+    width: 200px;
+    float: right;
+    border: 2px solid black
+}
